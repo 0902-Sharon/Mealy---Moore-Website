@@ -496,8 +496,10 @@ a:hover {
   z-index: -1000;
 }
 .banner .image-area .info-live {
-  top: 11.25rem;
-  left: 0.625rem;
+  /* top: 11.25rem; */
+  /* left: 0.625rem; */
+  bottom: 9.375rem;
+  right: -1.25rem;
 }
 .banner .image-area .info-chat {
   bottom: 4.375rem;

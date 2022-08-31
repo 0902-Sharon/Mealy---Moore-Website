@@ -1,0 +1,23 @@
+{
+  "name": "mandm-website",
+  "version": "1.0.0",
+  "description": "an educational website for mealy and moore machines",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0902-Sharon/Mealy---Moore-Website.git"
+  },
+  "author": "Sharon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0902-Sharon/Mealy---Moore-Website/issues"
+  },
+  "homepage": "https://github.com/0902-Sharon/Mealy---Moore-Website#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "deploy": "gh-pages -d mealy and moore website/app"
+  }
+}
